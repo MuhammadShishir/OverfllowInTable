@@ -1,0 +1,16 @@
+
+.ex{
+    
+    margin: auto;
+    background-color: seashell;
+    border: 1px solid black;
+    padding: 50px;
+    text-align: center;
+    height: 300px;
+    width: 150px;
+    
+    float: none;
+    /* background-color: brown; */
+    overflow-x: scroll;
+    overflow-y:visible;
+}
